@@ -3,6 +3,7 @@ Team Name:HyperKrypters
 
 So here we have implemented two ideas that could solve major issue in our current society using BlockChain Technology, both ideas comes under same Domain.
 =============================================================
+
 1.Relief Fund Donation:
 	Here we have implemented blockchain tech to solve the issue in Donation corruption's where lot's of kind hearted people 
 donate to the needy ones who might have facedflood/some crysis, but there is no tracking of this money , if they sent 100Rs only 
@@ -15,6 +16,7 @@ Technology Used:
 	Complete Hypercoin built using Python
 
 =============================================================
+
 2.OrganDonation:
 	
 	A. Problem
